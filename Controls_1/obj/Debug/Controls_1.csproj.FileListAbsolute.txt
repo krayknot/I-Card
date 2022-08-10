@@ -1,0 +1,36 @@
+E:\1\Controls_1\bin\Debug\Controls_1.dll
+E:\1\Controls_1\bin\Debug\Controls_1.pdb
+E:\1\Controls_1\bin\Debug\Touchless.Vision1.dll
+E:\1\Controls_1\bin\Debug\WebCamLib_1.dll
+E:\1\Controls_1\bin\Debug\System.ComponentModel.Composition.dll
+E:\1\Controls_1\bin\Debug\Touchless.Vision1.pdb
+E:\1\Controls_1\obj\Debug\ResolveAssemblyReference.cache
+E:\1\Controls_1\obj\Debug\Controls_1.WebCamCtrl_1.resources
+E:\1\Controls_1\obj\Debug\GenerateResource.read.1.tlog
+E:\1\Controls_1\obj\Debug\GenerateResource.write.1.tlog
+E:\1\Controls_1\obj\Debug\Controls_1.dll
+E:\1\Controls_1\obj\Debug\Controls_1.pdb
+E:\Kshitij\Windows Applications\Closed Circuit\Version_1\ClosedCircuit\Controls_1\obj\Debug\ResolveAssemblyReference.cache
+E:\Kshitij\Windows Applications\Closed Circuit\Version_1\ClosedCircuit\Controls_1\obj\Debug\Controls_1.WebCamCtrl_1.resources
+E:\Kshitij\Windows Applications\Closed Circuit\Version_1\ClosedCircuit\Controls_1\obj\Debug\GenerateResource.read.1.tlog
+E:\Kshitij\Windows Applications\Closed Circuit\Version_1\ClosedCircuit\Controls_1\obj\Debug\GenerateResource.write.1.tlog
+E:\Kshitij\Windows Applications\Closed Circuit\Version_1\ClosedCircuit\Controls_1\obj\Debug\Controls_1.pdb
+E:\Kshitij\Windows Applications\Closed Circuit\Version_1\ClosedCircuit\Controls_1\bin\Debug\Controls_1.dll
+E:\Kshitij\Windows Applications\Closed Circuit\Version_1\ClosedCircuit\Controls_1\bin\Debug\Controls_1.pdb
+E:\Kshitij\Windows Applications\Closed Circuit\Version_1\ClosedCircuit\Controls_1\obj\Debug\Controls_1.dll
+E:\Kshitij\Windows Applications\Closed Circuit\Version_1\ClosedCircuit\Controls_1\bin\Debug\AviFile.dll
+E:\Kshitij\Windows Applications\Closed Circuit\Version_1\ClosedCircuit\Controls_1\bin\Debug\AviFile.pdb
+E:\Kshitij\Windows Applications\Closed Circuit\Version_1\ClosedCircuit\Controls_1\bin\Debug\CamLibrary.dll
+E:\Kshitij\Windows Applications\Closed Circuit\Version_1\ClosedCircuit\Controls_1\bin\Debug\CamLibrary.pdb
+E:\Kshitij\Windows Applications\Closed Circuit\Version_1\ClosedCircuit\Controls_1\obj\Debug\Controls_1.Properties.Resources.resources
+E:\Kshitij\Windows Applications\Closed Circuit\Version_1\ClosedCircuit\Controls_1\bin\Debug\ClosedCircuit_DAL.dll
+E:\Kshitij\Windows Applications\Closed Circuit\Version_1\ClosedCircuit\Controls_1\bin\Debug\ClosedCircuit_DAL.pdb
+E:\Kshitij\Windows Applications\I-Card\Controls_1\obj\Debug\ResolveAssemblyReference.cache
+E:\Kshitij\Windows Applications\I-Card\Controls_1\obj\Debug\Controls_1.Properties.Resources.resources
+E:\Kshitij\Windows Applications\I-Card\Controls_1\obj\Debug\Controls_1.WebCamCtrl_1.resources
+E:\Kshitij\Windows Applications\I-Card\Controls_1\obj\Debug\GenerateResource.read.1.tlog
+E:\Kshitij\Windows Applications\I-Card\Controls_1\obj\Debug\GenerateResource.write.1.tlog
+E:\Kshitij\Windows Applications\I-Card\Controls_1\obj\Debug\Controls_1.pdb
+E:\Kshitij\Windows Applications\I-Card\Controls_1\bin\Debug\Controls_1.dll
+E:\Kshitij\Windows Applications\I-Card\Controls_1\bin\Debug\Controls_1.pdb
+E:\Kshitij\Windows Applications\I-Card\Controls_1\obj\Debug\Controls_1.dll
