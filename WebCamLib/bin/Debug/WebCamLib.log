@@ -1,0 +1,26 @@
+﻿Build started 1/8/2014 9:54:11 AM.
+     1>Project "E:\Kshitij\Windows Applications\I-Card\WebCamLib\WebCamLib.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "bin\Debug\WebCamLib.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "bin\Debug\WebCamLib.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"bin\Debug\\" /Fd"bin\Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt WebCamLib.cpp /clr:nostdlib 
+         WebCamLib.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"bin\Debug\\" /Fd"bin\Debug\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\kray\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(E:\Kshitij\Windows Applications\I-Card\bin\Debug\WebCamLib.dll) does not match the Linker's OutputFile property value (E:\Kshitij\Windows Applications\I-Card\WebCamLib\bin\Debug\WebCamLib.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"bin\Debug\WebCamLib.dll" /INCREMENTAL /NOLOGO Strmiids.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"bin\Debug\WebCamLib.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Kshitij\Windows Applications\I-Card\bin\Debug\WebCamLib.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE:NO /FIXED:NO /MACHINE:X86 /DLL bin\Debug\WebCamLib.obj
+         "bin\Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         WebCamLib.vcxproj -> E:\Kshitij\Windows Applications\I-Card\bin\Debug\WebCamLib.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"bin\Debug\WebCamLib.dll;#2" /manifest bin\Debug\WebCamLib.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "bin\Debug\WebCamLib.unsuccessfulbuild".
+         Touching "bin\Debug\WebCamLib.lastbuildstate".
+     1>Done Building Project "E:\Kshitij\Windows Applications\I-Card\WebCamLib\WebCamLib.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.77

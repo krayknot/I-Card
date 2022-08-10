@@ -1,0 +1,7 @@
+E:\Kshitij\Windows Applications\I-Card\I-Card Template Creator\bin\Debug\I-Card Template Creator.exe
+E:\Kshitij\Windows Applications\I-Card\I-Card Template Creator\bin\Debug\I-Card Template Creator.pdb
+E:\Kshitij\Windows Applications\I-Card\I-Card Template Creator\obj\x86\Debug\I_Card_Template_Creator.frmCreateTemplate.resources
+E:\Kshitij\Windows Applications\I-Card\I-Card Template Creator\obj\x86\Debug\I_Card_Template_Creator.Properties.Resources.resources
+E:\Kshitij\Windows Applications\I-Card\I-Card Template Creator\obj\x86\Debug\I-Card Template Creator.csproj.GenerateResource.Cache
+E:\Kshitij\Windows Applications\I-Card\I-Card Template Creator\obj\x86\Debug\I-Card Template Creator.exe
+E:\Kshitij\Windows Applications\I-Card\I-Card Template Creator\obj\x86\Debug\I-Card Template Creator.pdb

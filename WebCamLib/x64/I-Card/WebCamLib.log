@@ -1,0 +1,32 @@
+﻿Build started 12/24/2013 1:04:42 PM.
+     1>Project "E:\Kshitij\Windows Applications\I-Card\WebCamLib\WebCamLib.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "x64\I-Card\WebCamLib.unsuccessfulbuild".
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W1 /WX- /O2 /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\I-Card\\" /Fd"x64\I-Card\vc100.pdb" /Gd /TP /errorReport:prompt WebCamLib.cpp
+         WebCamLib.cpp
+     1>e:\kshitij\windows applications\i-card\webcamlib\WebCamLib.h(12): error C2871: 'System' : a namespace with this name does not exist
+     1>e:\kshitij\windows applications\i-card\webcamlib\WebCamLib.h(13): error C2653: 'System' : is not a class or namespace name
+     1>e:\kshitij\windows applications\i-card\webcamlib\WebCamLib.h(13): error C2871: 'InteropServices' : a namespace with this name does not exist
+     1>e:\kshitij\windows applications\i-card\webcamlib\WebCamLib.h(20): error C2059: syntax error : 'public'
+     1>e:\kshitij\windows applications\i-card\webcamlib\WebCamLib.h(21): error C2143: syntax error : missing ';' before '{'
+     1>e:\kshitij\windows applications\i-card\webcamlib\WebCamLib.h(21): error C2447: '{' : missing function header (old-style formal list?)
+     1>e:\kshitij\windows applications\i-card\webcamlib\WebCamLib.h(30): error C2059: syntax error : 'public'
+     1>e:\kshitij\windows applications\i-card\webcamlib\WebCamLib.h(31): error C2143: syntax error : missing ';' before '{'
+     1>e:\kshitij\windows applications\i-card\webcamlib\WebCamLib.h(31): error C2447: '{' : missing function header (old-style formal list?)
+     1>WebCamLib.cpp(22): error C2871: 'System' : a namespace with this name does not exist
+     1>WebCamLib.cpp(23): error C2653: 'System' : is not a class or namespace name
+     1>WebCamLib.cpp(23): error C2871: 'Reflection' : a namespace with this name does not exist
+     1>WebCamLib.cpp(52): error C2653: 'CameraMethods' : is not a class or namespace name
+     1>WebCamLib.cpp(53): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>WebCamLib.cpp(55): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>WebCamLib.cpp(55): error C2227: left of '->disposed' must point to class/struct/union/generic type
+     1>WebCamLib.cpp(58): error C3861: 'RefreshCameraList': identifier not found
+     1>WebCamLib.cpp(59): warning C4508: 'CameraMethods' : function should return a value; 'void' return type assumed
+     1>WebCamLib.cpp(64): error C2653: 'CameraMethods' : is not a class or namespace name
+     1>WebCamLib.cpp(64): fatal error C1903: unable to recover from previous error(s); stopping compilation
+     1>Done Building Project "E:\Kshitij\Windows Applications\I-Card\WebCamLib\WebCamLib.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.57
