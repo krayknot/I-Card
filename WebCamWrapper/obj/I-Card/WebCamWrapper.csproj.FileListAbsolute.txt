@@ -1,0 +1,10 @@
+E:\Kshitij\Windows Applications\I-Card\WebCamWrapper\bin\I-Card\Touchless.Vision.dll
+E:\Kshitij\Windows Applications\I-Card\WebCamWrapper\bin\I-Card\System.ComponentModel.Composition.dll
+E:\Kshitij\Windows Applications\I-Card\WebCamWrapper\bin\I-Card\WebCamLib.dll
+E:\Kshitij\Windows Applications\I-Card\WebCamWrapper\bin\I-Card\WebCamLib.pdb
+E:\Kshitij\Windows Applications\I-Card\WebCamWrapper\obj\I-Card\ResolveAssemblyReference.cache
+E:\Kshitij\Windows Applications\I-Card\WebCamWrapper\obj\I-Card\Camera\Configuration\CameraFrameSourceConfigurationElement.baml
+E:\Kshitij\Windows Applications\I-Card\WebCamWrapper\obj\I-Card\Camera\Configuration\CameraFrameSourceConfigurationElement.g.cs
+E:\Kshitij\Windows Applications\I-Card\WebCamWrapper\obj\I-Card\Touchless.Vision_MarkupCompile.cache
+E:\Kshitij\Windows Applications\I-Card\WebCamWrapper\obj\I-Card\Touchless.Vision.g.resources
+E:\Kshitij\Windows Applications\I-Card\WebCamWrapper\obj\I-Card\Touchless.Vision.dll

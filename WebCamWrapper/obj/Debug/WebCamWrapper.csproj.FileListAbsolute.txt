@@ -1,0 +1,47 @@
+D:\Users\krayknot\Downloads\source-vs2010\source-vs2010\WebCamWrapper\bin\Debug\Touchless.Vision.dll
+D:\Users\krayknot\Downloads\source-vs2010\source-vs2010\WebCamWrapper\bin\Debug\Touchless.Vision.pdb
+D:\Users\krayknot\Downloads\source-vs2010\source-vs2010\WebCamWrapper\bin\Debug\System.ComponentModel.Composition.dll
+D:\Users\krayknot\Downloads\source-vs2010\source-vs2010\WebCamWrapper\bin\Debug\WebCamLib.dll
+D:\Users\krayknot\Downloads\source-vs2010\source-vs2010\WebCamWrapper\bin\Debug\WebCamLib.pdb
+D:\Users\krayknot\Downloads\source-vs2010\source-vs2010\WebCamWrapper\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\krayknot\Downloads\source-vs2010\source-vs2010\WebCamWrapper\obj\Debug\Camera\Configuration\CameraFrameSourceConfigurationElement.baml
+D:\Users\krayknot\Downloads\source-vs2010\source-vs2010\WebCamWrapper\obj\Debug\Camera\Configuration\CameraFrameSourceConfigurationElement.g.cs
+D:\Users\krayknot\Downloads\source-vs2010\source-vs2010\WebCamWrapper\obj\Debug\Touchless.Vision_MarkupCompile.cache
+D:\Users\krayknot\Downloads\source-vs2010\source-vs2010\WebCamWrapper\obj\Debug\Touchless.Vision.g.resources
+D:\Users\krayknot\Downloads\source-vs2010\source-vs2010\WebCamWrapper\obj\Debug\Touchless.Vision.dll
+D:\Users\krayknot\Downloads\source-vs2010\source-vs2010\WebCamWrapper\obj\Debug\Touchless.Vision.pdb
+E:\source-vs2010\WebCamWrapper\bin\Debug\Touchless.Vision.dll
+E:\source-vs2010\WebCamWrapper\bin\Debug\Touchless.Vision.pdb
+E:\source-vs2010\WebCamWrapper\bin\Debug\System.ComponentModel.Composition.dll
+E:\source-vs2010\WebCamWrapper\bin\Debug\WebCamLib.dll
+E:\source-vs2010\WebCamWrapper\bin\Debug\WebCamLib.pdb
+E:\source-vs2010\WebCamWrapper\obj\Debug\ResolveAssemblyReference.cache
+E:\source-vs2010\WebCamWrapper\obj\Debug\Camera\Configuration\CameraFrameSourceConfigurationElement.baml
+E:\source-vs2010\WebCamWrapper\obj\Debug\Camera\Configuration\CameraFrameSourceConfigurationElement.g.cs
+E:\source-vs2010\WebCamWrapper\obj\Debug\Touchless.Vision_MarkupCompile.cache
+E:\source-vs2010\WebCamWrapper\obj\Debug\Touchless.Vision.g.resources
+E:\source-vs2010\WebCamWrapper\obj\Debug\Touchless.Vision.dll
+E:\source-vs2010\WebCamWrapper\obj\Debug\Touchless.Vision.pdb
+E:\krayknot\CC sources\source-vs2010\WebCamWrapper\bin\Debug\Touchless.Vision.dll
+E:\krayknot\CC sources\source-vs2010\WebCamWrapper\bin\Debug\Touchless.Vision.pdb
+E:\krayknot\CC sources\source-vs2010\WebCamWrapper\bin\Debug\System.ComponentModel.Composition.dll
+E:\krayknot\CC sources\source-vs2010\WebCamWrapper\bin\Debug\WebCamLib.dll
+E:\krayknot\CC sources\source-vs2010\WebCamWrapper\bin\Debug\WebCamLib.pdb
+E:\krayknot\CC sources\source-vs2010\WebCamWrapper\obj\Debug\ResolveAssemblyReference.cache
+E:\krayknot\CC sources\source-vs2010\WebCamWrapper\obj\Debug\Camera\Configuration\CameraFrameSourceConfigurationElement.baml
+E:\krayknot\CC sources\source-vs2010\WebCamWrapper\obj\Debug\Camera\Configuration\CameraFrameSourceConfigurationElement.g.cs
+E:\krayknot\CC sources\source-vs2010\WebCamWrapper\obj\Debug\Touchless.Vision_MarkupCompile.cache
+E:\krayknot\CC sources\source-vs2010\WebCamWrapper\obj\Debug\Touchless.Vision.g.resources
+E:\krayknot\CC sources\source-vs2010\WebCamWrapper\obj\Debug\Touchless.Vision.dll
+E:\krayknot\CC sources\source-vs2010\WebCamWrapper\obj\Debug\Touchless.Vision.pdb
+E:\Kshitij\Windows Applications\I-Card\WebCamWrapper\bin\Debug\Touchless.Vision.dll
+E:\Kshitij\Windows Applications\I-Card\WebCamWrapper\bin\Debug\Touchless.Vision.pdb
+E:\Kshitij\Windows Applications\I-Card\WebCamWrapper\bin\Debug\System.ComponentModel.Composition.dll
+E:\Kshitij\Windows Applications\I-Card\WebCamWrapper\bin\Debug\WebCamLib.dll
+E:\Kshitij\Windows Applications\I-Card\WebCamWrapper\obj\Debug\WebCamWrapper.csprojResolveAssemblyReference.cache
+E:\Kshitij\Windows Applications\I-Card\WebCamWrapper\obj\Debug\Camera\Configuration\CameraFrameSourceConfigurationElement.baml
+E:\Kshitij\Windows Applications\I-Card\WebCamWrapper\obj\Debug\Camera\Configuration\CameraFrameSourceConfigurationElement.g.cs
+E:\Kshitij\Windows Applications\I-Card\WebCamWrapper\obj\Debug\Touchless.Vision_MarkupCompile.cache
+E:\Kshitij\Windows Applications\I-Card\WebCamWrapper\obj\Debug\Touchless.Vision.g.resources
+E:\Kshitij\Windows Applications\I-Card\WebCamWrapper\obj\Debug\Touchless.Vision.dll
+E:\Kshitij\Windows Applications\I-Card\WebCamWrapper\obj\Debug\Touchless.Vision.pdb
