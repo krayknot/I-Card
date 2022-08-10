@@ -1,0 +1,14 @@
+E:\Kshitij\Windows Applications\I-Card\I-Card\bin\x86\I-Card\I-Card.exe
+E:\Kshitij\Windows Applications\I-Card\I-Card\bin\x86\I-Card\Touchless.Vision.dll
+E:\Kshitij\Windows Applications\I-Card\I-Card\bin\x86\I-Card\WebCamLib.dll
+E:\Kshitij\Windows Applications\I-Card\I-Card\bin\x86\I-Card\System.ComponentModel.Composition.dll
+E:\Kshitij\Windows Applications\I-Card\I-Card\bin\x86\I-Card\WebCamLib.pdb
+E:\Kshitij\Windows Applications\I-Card\I-Card\obj\x86\I-Card\ResolveAssemblyReference.cache
+E:\Kshitij\Windows Applications\I-Card\I-Card\obj\x86\I-Card\I_Card.frmFinalResult.resources
+E:\Kshitij\Windows Applications\I-Card\I-Card\obj\x86\I-Card\I_Card.frmSelectTemplate.resources
+E:\Kshitij\Windows Applications\I-Card\I-Card\obj\x86\I-Card\I_Card.frmTakePicture.resources
+E:\Kshitij\Windows Applications\I-Card\I-Card\obj\x86\I-Card\I_Card.frmUserDetails.resources
+E:\Kshitij\Windows Applications\I-Card\I-Card\obj\x86\I-Card\I_Card.Properties.Resources.resources
+E:\Kshitij\Windows Applications\I-Card\I-Card\obj\x86\I-Card\GenerateResource.read.1.tlog
+E:\Kshitij\Windows Applications\I-Card\I-Card\obj\x86\I-Card\GenerateResource.write.1.tlog
+E:\Kshitij\Windows Applications\I-Card\I-Card\obj\x86\I-Card\I-Card.exe
