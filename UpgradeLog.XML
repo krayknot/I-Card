@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="I-Card">
+</Property><Property Name="Solution File" Value="E:\Kshitij\Windows Applications\I-Card\I-Card.sln">
+</Property><Property Name="Date" Value="Tuesday, December 24, 2013">
+</Property><Property Name="Time" Value="12:16:13 PM">
+</Property></Properties><Event ErrorLevel="0" Project="WebCamLib" Source="WebCamLib\WebCamLib.vcproj" Description="Converting project file 'E:\Kshitij\Windows Applications\I-Card\WebCamLib\WebCamLib.vcproj'.">
+</Event><Event ErrorLevel="1" Project="WebCamLib" Source="WebCamLib\WebCamLib.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="WebCamLib" Source="WebCamLib\WebCamLib.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="WebCamLib" Source="WebCamLib\WebCamLib.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="WebCamLib" Source="WebCamLib\WebCamLib.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="WebCamLib" Source="WebCamLib\WebCamLib.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="WebCamLib" Source="WebCamLib\WebCamLib.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="WebCamLib" Source="WebCamLib\WebCamLib.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="WebCamLib" Source="WebCamLib\WebCamLib.vcproj" Description="MSB8012: $(TargetPath) ('E:\Kshitij\Windows Applications\I-Card\x64\Debug\WebCamLib.dll') does not match the Linker's OutputFile property value 'bin\Debug\WebCamLib.dll' ('E:\Kshitij\Windows Applications\I-Card\bin\Debug\WebCamLib.dll') in project configuration 'Debug|x64'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="WebCamLib" Source="WebCamLib\WebCamLib.vcproj" Description="Done converting to new project file 'E:\Kshitij\Windows Applications\I-Card\WebCamLib\WebCamLib.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="WebCamLib" Source="WebCamLib\WebCamLib.vcproj" Description="Converted">
+</Event></UpgradeLog>
